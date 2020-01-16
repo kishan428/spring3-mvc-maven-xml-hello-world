@@ -11,6 +11,10 @@
 		<jdk.version>1.6</jdk.version>
 		<spring.version>3.2.13.RELEASE</spring.version>
 		<jstl.version>1.2</jstl.version>
+		<sonar.projectKey>kishan428_spring3-mvc-maven-xml-hello-world</sonar.projectKey>
+                <sonar.organization>kishan428-github</sonar.organization>
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                <sonar.login>4207901f4bef064b6583b8a146da0d57f53e2eaf</sonar.login>
        </properties>
 
 	<dependencies>
