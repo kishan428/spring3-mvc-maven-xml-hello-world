@@ -1,4 +1,4 @@
-name: maven
+name: tomcat deployment-job
 
 on: [push]
 
