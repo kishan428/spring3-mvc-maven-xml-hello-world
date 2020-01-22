@@ -1,4 +1,4 @@
-name: Java-maven
+name: maven
 
 on: [push]
 
