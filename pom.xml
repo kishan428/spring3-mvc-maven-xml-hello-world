@@ -13,7 +13,7 @@
 		<jstl.version>1.2</jstl.version>
 		<sonar.projectKey>devops</sonar.projectKey>
                 <sonar.host.url>http://localhost:9000/</sonar.host.url>
-                <sonar.login>07a071c4c59b1fdf3877fdacf9d03cd8df78ce17</sonar.login>
+                <sonar.login>ab6f301a3d7a02ecdaa56dc94b7b8b5b44b17115</sonar.login>
        </properties>
 
 	<dependencies>
